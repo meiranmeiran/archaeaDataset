@@ -1,3 +1,3 @@
 # archaeaDataset
 
-Dataset for The origin and evolution of methanogenesis and Archaea are intertwined, Mei et al.
+Dataset (original/trimmed alignment and Newick tree) for The origin and evolution of methanogenesis and Archaea are intertwined, Mei et al.
